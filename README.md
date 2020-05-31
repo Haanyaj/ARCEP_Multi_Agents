@@ -1,5 +1,15 @@
 # ARCEP_Multi_Agent
 Simulation of 5G repartition with GAMA framework
+
+Simulation de la répartition 5G avec le framework GAMA (GAML)
+pour le hackathon ARCEP.
+Le but étant de simuler les marchés du réseau 5G dans une zone.
+
+
+
+
+Explication du code pour le hackathon
+
 global {
  #chargement des fichiers .shp -> cartes IGN
  #légende du projet
